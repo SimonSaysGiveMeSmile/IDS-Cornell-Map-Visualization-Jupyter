@@ -1,5 +1,5 @@
 # IDS-Cornell-Virtual-City
-A 2D urban road map comprises autonomous vehicles and is compiled in Jupyter Notebook.
+A 2D urban road map for autonomous vehicles, compiled in Jupyter Notebook.
 
 Make sure that you have the "standard" Python libraries installed: 
 1. matplotlib
